@@ -22,7 +22,7 @@ WebUI.openBrowser('')
 WebUI.navigateToUrl('https://www.amazon.com.br/')
 
 WebUI.setText(findTestObject('Object Repository/Page_Amazon.com.br  Compre livros, Kindle, _99aca1/input_Todos_field-keywords'), 
-    'iphone')
+    '0190199221314')
 
 WebUI.click(findTestObject('Object Repository/Page_Amazon.com.br  Compre livros, Kindle, _99aca1/input_Todos_nav-search-submit-button'))
 
